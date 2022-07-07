@@ -1,3 +1,7 @@
 Hello! My name is Mohan Pradhan. And this is my first file uploaded to github. Cheers!
 
-Its fun to learn!
+It's fun to learn!
+
+So, today it's 7/7/2022 and I found that I joined github on May 31, 2019.
+
+It's always fun to learn.
